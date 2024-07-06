@@ -4,7 +4,7 @@
  * Description: a simple tool to know your post statistics.
  * Version: 1.0
  * Author: Michael
- * Author URI: https://twitter.com/michael8php
+ * Author URI: https://twitter.com/michael8u
  */
 if(!defined('ABSPATH')){
   exit;
